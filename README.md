@@ -1,4 +1,4 @@
-# 🐝 Bee Board API
+# 🐝📡 Bee Board API
 
 The backend API for BeeBoard, built with Laravel and MySQL. This API manages user authentication, notes, comments, and discussions, providing a structured and secure RESTful interface for the frontend and desktop applications.
 
